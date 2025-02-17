@@ -1,0 +1,20 @@
+//
+//  BookingAppointmentView.swift
+//  UserApp
+//
+//  Created by admin on 17/02/25.
+//
+
+import SwiftUI
+
+struct BookingAppointmentView: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+struct BookingAppointmentView_Previews: PreviewProvider {
+    static var previews: some View {
+        BookingAppointmentView()
+    }
+}
